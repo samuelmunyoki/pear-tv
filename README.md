@@ -1,6 +1,8 @@
 ## Pear Tv 
 Official repository of Pear TV
 
+[I am no longer maintaining this App]
+
 Download https://www.mediafire.com/file/u7bb2buqp8l0o5w/pear.apk/file
 
 Disclaimer: Pear TV does not store or res-stream any TV channels, the streams are only made available to the user and they are only sourced from public sources in the internet.
