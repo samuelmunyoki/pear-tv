@@ -1,13 +1,19 @@
 ## Pear Tv 
 Official repository of Pear TV
 
+Download https://www.mediafire.com/file/u7bb2buqp8l0o5w/pear.apk/file
+
 Disclaimer: Pear TV does not store or res-stream any TV channels, the streams are only made available to the user and they are only sourced from public sources in the internet.
 
 The Splash screen
-![Screenshot](logo.jpeg)
+<span><img src="logo.jpeg" width= 200 alt="My cool logo"/>
+
 Loading channels
-![alt text](refresh.jpeg)
+<img src="refresh.jpeg" width= 200 />
+
 TV channels
-![alt text](channels.jpeg)
-Player
-![alt text](play.jpeg)
+<img src="channels.jpeg" width= 200 />
+
+
+TV Stream Playing
+<img src="play.jpeg" width= 200 />
